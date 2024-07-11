@@ -5,7 +5,7 @@ idna
 mutagen
 pyaes
 pycryptodome
-pyrogram
+Pyrogram==2.0.106
 pyromod
 PySocks
 python-dotenv
@@ -14,7 +14,7 @@ soupsieve
 TgCrypto
 urllib3
 websockets
-yt-dlp
+yt-dlp==2024.07.09
 motor
 aiohttp
 aiofiles
